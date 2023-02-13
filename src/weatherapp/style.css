@@ -225,5 +225,13 @@ body {
 
 .searchTerm {
   margin-left: -12px;
+  border: none;
+  border-radius: 5px 0 0 5px;
+  font-size: 18px;
+  height: 20px;
+  outline: none;
+  padding: 16px;
+  width: 50%;
 }
+
 }
