@@ -63,7 +63,7 @@ const Weathercard = ({
           </div>
         </div>
 
-        <div className="date"> {time} </div>
+        <div className="date"> INDIA, {time} </div>
 
         {/* our 4column section  */}
         <div className="extra-temp">
