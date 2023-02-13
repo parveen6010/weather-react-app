@@ -223,4 +223,7 @@ body {
     padding: 0;
 }
 
+.searchTerm {
+  margin-left: -12px;
+}
 }
