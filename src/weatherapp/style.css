@@ -186,6 +186,10 @@ body {
 
 @media (max-width: 477px) {
 
+  :root{
+    margin-left: 30px;
+  }
+
     .widget {
         display: inline-block;
         height: 300px;
